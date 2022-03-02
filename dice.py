@@ -1,4 +1,4 @@
-#This is a sandbox to experiment with Python code
+#This program allows the user to roll a D6, D10, or D20 dice through the command line.
 from random import randrange
 
 def D6():
